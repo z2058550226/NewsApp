@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewsApp.iml" filepath="$PROJECT_DIR$/NewsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downloaderlib/downloaderlib.iml" filepath="$PROJECT_DIR$/downloaderlib/downloaderlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playerview/playerview.iml" filepath="$PROJECT_DIR$/playerview/playerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewhelper/recyclerviewhelper.iml" filepath="$PROJECT_DIR$/recyclerviewhelper/recyclerviewhelper.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+           android:duration="@android:integer/config_mediumAnimTime"
+           android:fromXDelta="0"
+           android:interpolator="@android:anim/accelerate_interpolator"
+           android:toXDelta="0"/>
+
+<!-- 这个动画一般用作退出时不动的动画, 有些机型会自带默认Activity退出动画, 用这个动画会替代之 -->
